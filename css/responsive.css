@@ -29,11 +29,11 @@
     }
 }
 
-@media (min-height: 575px) {
+/*@media (min-height: 575px) {
     .container-menu {
         display: none;
     }
-}
+}*/
 
 @media (max-width: 1000px) {
     .container {
